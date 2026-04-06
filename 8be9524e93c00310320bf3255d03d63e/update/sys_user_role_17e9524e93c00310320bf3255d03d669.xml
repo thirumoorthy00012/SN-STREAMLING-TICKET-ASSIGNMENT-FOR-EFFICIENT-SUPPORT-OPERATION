@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>35NiqpykuBA2kqhBBYFDNnvUpjbL2khHKzqWTeWzkIE=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1981274_stream_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 05:32:39</sys_created_on>
+        <sys_id>17e9524e93c00310320bf3255d03d669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1981274_stream_0.admin</sys_name>
+        <sys_package display_value="STREAMLING TICKET ASSIGNMENT FOR EFFICIENT SUPPORT OPERATION" source="x_1981274_stream_0">8be9524e93c00310320bf3255d03d63e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STREAMLING TICKET ASSIGNMENT FOR EFFICIENT SUPPORT OPERATION">8be9524e93c00310320bf3255d03d63e</sys_scope>
+        <sys_update_name>sys_user_role_17e9524e93c00310320bf3255d03d669</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 05:32:39</sys_updated_on>
+    </sys_user_role>
+</record_update>
